@@ -4,7 +4,9 @@ A simple Flutter app to display membership cards.
 
 ## 📱 Screenshot  
 <img width="985" height="926" alt="image" src="https://github.com/user-attachments/assets/b4e33864-c61e-4c25-8ee1-696810865d42" />
-
+## Demo
+for demo go to this link ,it'll automatically download the .mp4 file and you can watch demo 
+https://github.com/varsha-Lambu/Virtual_Membership_Card/raw/main/Screen%20Recording%202025-07-30%20020317.mp4
 
 ## 🛠️ Features  
 A single-screen Flutter app that displays a dynamic membership card with:
