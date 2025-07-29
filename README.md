@@ -7,9 +7,9 @@ A simple Flutter app to display membership cards.
 
 
 ## 🛠️ Features  
-- View membership card details  
-- Simple UI  
-
+A single-screen Flutter app that displays a dynamic membership card with:
+✅ Customizable backgrounds (changes based on user type)
+✅ Interactive profile section (shows user ID on click)
 ## 🚀 Installation  
 1. Clone the repo:  
    ```bash
